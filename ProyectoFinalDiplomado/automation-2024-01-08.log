@@ -1,0 +1,99 @@
+2024-01-08T00:09:02,435 [main] INFO  (JsonTestDataHelper.java:36) - JsonTestDataHelper created
+2024-01-08T00:09:02,448 [main] INFO  (JsonTestDataHelper.java:44) - filePath: resources/testdata/data/login.json
+2024-01-08T00:09:02,483 [main] INFO  (JsonTestDataHelper.java:47) - TestData: [LoginTA(user=pitrojarte@gufum.com, password=TripAdvisorPass#, user_id=I4399AWjuancarlosa)]
+2024-01-08T00:09:07,303 [main] INFO  (BaseTest.java:52) - Navigate to https://www.tripadvisor.com/
+2024-01-08T00:09:16,484 [main] INFO  (BaseTest.java:83) - Closing the driver
+2024-01-08T00:16:12,873 [main] INFO  (JsonTestDataHelper.java:37) - JsonTestDataHelper created
+2024-01-08T00:16:12,881 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/login.json
+2024-01-08T00:16:12,917 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [LoginTA(user=l.com, password=TripAdvisorPass#, user_id=I4399AWjuancarlosa)]
+2024-01-08T00:16:17,426 [main] INFO  (BaseTest.java:52) - Navigate to https://www.tripadvisor.com/
+2024-01-08T00:16:28,442 [main] INFO  (BaseTest.java:83) - Closing the driver
+2024-01-08T00:25:40,648 [main] INFO  (JsonTestDataHelper.java:37) - JsonTestDataHelper created
+2024-01-08T00:25:40,656 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/login.json
+2024-01-08T00:25:40,700 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [LoginTA(user=automation1704687372840@gmail.com, password=TripAdvisorPass#, user_id=I4399AWjuancarlosa, first_name=Juan Carlos, last_name=Avila)]
+2024-01-08T00:25:45,889 [main] INFO  (BaseTest.java:52) - Navigate to https://www.tripadvisor.com/
+2024-01-08T00:25:59,168 [main] INFO  (BaseTest.java:83) - Closing the driver
+2024-01-08T00:28:20,456 [main] INFO  (JsonTestDataHelper.java:37) - JsonTestDataHelper created
+2024-01-08T00:28:20,464 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/login.json
+2024-01-08T00:28:20,509 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [LoginTA(user=automation1704687940608@gmail.com, password=TripAdvisorPass#, user_id=I4399AWjuancarlosa, first_name=Juan Carlos, last_name=Avila)]
+2024-01-08T00:28:25,102 [main] INFO  (BaseTest.java:52) - Navigate to https://www.tripadvisor.com/
+2024-01-08T00:28:46,113 [main] INFO  (BaseTest.java:83) - Closing the driver
+2024-01-08T00:32:01,897 [main] INFO  (JsonTestDataHelper.java:37) - JsonTestDataHelper created
+2024-01-08T00:32:01,904 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/login.json
+2024-01-08T00:32:01,949 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [LoginTA(user=automation1704688100417@gmail.com, password=TripAdvisorPass#, user_id=I4399AWjuancarlosa, first_name=Juan Carlos, last_name=Avila)]
+2024-01-08T00:32:06,404 [main] INFO  (BaseTest.java:52) - Navigate to https://www.tripadvisor.com/
+2024-01-08T00:32:29,598 [main] INFO  (BaseTest.java:83) - Closing the driver
+2024-01-08T00:36:26,373 [main] INFO  (JsonTestDataHelper.java:37) - JsonTestDataHelper created
+2024-01-08T00:36:26,382 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/login.json
+2024-01-08T00:36:26,426 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [LoginTA(user=automation1704688321857@gmail.com, password=TripAdvisorPass#, user_id=I4399AWjuancarlosa, first_name=Juan Carlos, last_name=Avila)]
+2024-01-08T00:36:31,745 [main] INFO  (BaseTest.java:52) - Navigate to https://www.tripadvisor.com/
+2024-01-08T00:36:45,393 [main] INFO  (BaseTest.java:83) - Closing the driver
+2024-01-08T00:41:50,916 [main] INFO  (JsonTestDataHelper.java:37) - JsonTestDataHelper created
+2024-01-08T00:41:50,925 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/login.json
+2024-01-08T00:41:50,970 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [LoginTA(user=automation1704688586335@gmail.com, password=TripAdvisorPass#, user_id=I4399AWjuancarlosa, first_name=Juan Carlos, last_name=Avila)]
+2024-01-08T00:41:55,486 [main] INFO  (BaseTest.java:52) - Navigate to https://www.tripadvisor.com/
+2024-01-08T00:42:08,725 [main] INFO  (BaseTest.java:83) - Closing the driver
+2024-01-08T00:44:36,950 [main] INFO  (JsonTestDataHelper.java:37) - JsonTestDataHelper created
+2024-01-08T00:44:36,957 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/login.json
+2024-01-08T00:44:37,002 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [LoginTA(user=automation1704688910877@gmail.com, password=TripAdvisorPass#, user_id=I4399AWjuancarlosa, first_name=Juan Carlos, last_name=Avila)]
+2024-01-08T00:44:41,602 [main] INFO  (BaseTest.java:52) - Navigate to https://www.tripadvisor.com/
+2024-01-08T00:44:58,455 [main] INFO  (BaseTest.java:83) - Closing the driver
+2024-01-08T00:45:30,915 [main] INFO  (JsonTestDataHelper.java:37) - JsonTestDataHelper created
+2024-01-08T00:45:30,922 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/login.json
+2024-01-08T00:45:30,966 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [LoginTA(user=automation1704689076914@gmail.com, password=TripAdvisorPass#, user_id=I4399AWjuancarlosa, first_name=Juan Carlos, last_name=Avila)]
+2024-01-08T00:45:35,509 [main] INFO  (BaseTest.java:52) - Navigate to https://www.tripadvisor.com/
+2024-01-08T00:45:51,502 [main] INFO  (BaseTest.java:83) - Closing the driver
+2024-01-08T00:47:42,109 [main] INFO  (JsonTestDataHelper.java:37) - JsonTestDataHelper created
+2024-01-08T00:47:42,118 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/login.json
+2024-01-08T00:47:42,160 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [LoginTA(user=automation1704689130877@gmail.com, password=TripAdvisorPass#, user_id=I4399AWjuancarlosa, first_name=Juan Carlos, last_name=Avila)]
+2024-01-08T00:47:46,828 [main] INFO  (BaseTest.java:52) - Navigate to https://www.tripadvisor.com/
+2024-01-08T00:48:06,110 [main] INFO  (BaseTest.java:83) - Closing the driver
+2024-01-08T00:53:19,246 [main] INFO  (JsonTestDataHelper.java:37) - JsonTestDataHelper created
+2024-01-08T00:53:19,255 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/login.json
+2024-01-08T00:53:19,297 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [LoginTA(user=automation1704689262069@gmail.com, password=TripAdvisorPass#, user_id=I4399AWjuancarlosa, first_name=Juan Carlos, last_name=Avila)]
+2024-01-08T00:53:24,359 [main] INFO  (BaseTest.java:52) - Navigate to https://www.tripadvisor.com/
+2024-01-08T00:53:47,192 [main] INFO  (BaseTest.java:83) - Closing the driver
+2024-01-08T00:55:20,733 [main] INFO  (JsonTestDataHelper.java:37) - JsonTestDataHelper created
+2024-01-08T00:55:20,741 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/login.json
+2024-01-08T00:55:20,750 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [LoginTA(user=testTA1704689717648@gmail.com, password=TripAdvisorPass#, user_id=I4399AWjuancarlosa, first_name=Juan Carlos, last_name=Avila)]
+2024-01-08T00:55:25,821 [main] INFO  (BaseTest.java:52) - Navigate to https://www.tripadvisor.com/
+2024-01-08T00:55:45,159 [main] INFO  (BaseTest.java:83) - Closing the driver
+2024-01-08T01:01:41,526 [main] INFO  (JsonTestDataHelper.java:37) - JsonTestDataHelper created
+2024-01-08T01:01:41,533 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/login.json
+2024-01-08T01:01:41,544 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [LoginTA(user=testTA1704690098443@gmail.com, password=TripAdvisorPass#, user_id=user, first_name=Juan Carlos, last_name=Avila)]
+2024-01-08T01:01:46,158 [main] INFO  (BaseTest.java:52) - Navigate to https://www.tripadvisor.com/
+2024-01-08T01:02:17,322 [main] INFO  (BaseTest.java:83) - Closing the driver
+2024-01-08T01:42:21,511 [main] INFO  (JsonTestDataHelper.java:37) - JsonTestDataHelper created
+2024-01-08T01:42:21,519 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/login.json
+2024-01-08T01:42:21,563 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [LoginTA(user=testTA1704690098443@gmail.com, password=TripAdvisorPass#, user_id=V324CGjuancarlosa, first_name=Juan Carlos, last_name=Avila)]
+2024-01-08T01:42:21,564 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/addHotel.json
+2024-01-08T01:42:21,565 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [HotelTA(hotel_name=Taj Mahal Palace)]
+2024-01-08T01:42:26,088 [main] INFO  (BaseTest.java:52) - Navigate to https://www.tripadvisor.com/
+2024-01-08T01:43:00,838 [main] INFO  (BaseTest.java:83) - Closing the driver
+2024-01-08T01:44:49,674 [main] INFO  (JsonTestDataHelper.java:37) - JsonTestDataHelper created
+2024-01-08T01:44:49,684 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/login.json
+2024-01-08T01:44:49,730 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [LoginTA(user=testTA1704690098443@gmail.com, password=TripAdvisorPass#, user_id=V324CGjuancarlosa, first_name=Juan Carlos, last_name=Avila)]
+2024-01-08T01:44:49,731 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/addHotel.json
+2024-01-08T01:44:49,732 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [HotelTA(hotel_name=Taj Mahal Palace)]
+2024-01-08T01:44:55,050 [main] INFO  (BaseTest.java:52) - Navigate to https://www.tripadvisor.com/
+2024-01-08T01:45:35,637 [main] INFO  (BaseTest.java:83) - Closing the driver
+2024-01-08T01:47:29,167 [main] INFO  (JsonTestDataHelper.java:37) - JsonTestDataHelper created
+2024-01-08T01:47:29,174 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/login.json
+2024-01-08T01:47:29,217 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [LoginTA(user=testTA1704690098443@gmail.com, password=TripAdvisorPass#, user_id=V324CGjuancarlosa, first_name=Juan Carlos, last_name=Avila)]
+2024-01-08T01:47:29,218 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/addHotel.json
+2024-01-08T01:47:29,220 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [HotelTA(hotel_name=Taj Mahal Palace)]
+2024-01-08T01:47:33,689 [main] INFO  (BaseTest.java:52) - Navigate to https://www.tripadvisor.com/
+2024-01-08T01:48:02,324 [main] INFO  (BaseTest.java:83) - Closing the driver
+2024-01-08T01:53:26,579 [main] INFO  (JsonTestDataHelper.java:37) - JsonTestDataHelper created
+2024-01-08T01:53:26,588 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/login.json
+2024-01-08T01:53:26,630 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [LoginTA(user=testTA1704690098443@gmail.com, password=TripAdvisorPass#, user_id=V324CGjuancarlosa, first_name=Juan Carlos, last_name=Avila)]
+2024-01-08T01:53:26,631 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/addHotel.json
+2024-01-08T01:53:26,632 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [HotelTA(hotel_name=Taj Mahal Palace, trip_name=Trip to Mumbai)]
+2024-01-08T01:53:31,193 [main] INFO  (BaseTest.java:52) - Navigate to https://www.tripadvisor.com/
+2024-01-08T01:54:19,913 [main] INFO  (JsonTestDataHelper.java:37) - JsonTestDataHelper created
+2024-01-08T01:54:19,921 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/login.json
+2024-01-08T01:54:19,966 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [LoginTA(user=testTA1704690098443@gmail.com, password=TripAdvisorPass#, user_id=V324CGjuancarlosa, first_name=Juan Carlos, last_name=Avila)]
+2024-01-08T01:54:19,967 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/addHotel.json
+2024-01-08T01:54:19,968 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [HotelTA(hotel_name=Taj Mahal Palace, trip_name=Trip to Mumbai)]
+2024-01-08T01:54:24,470 [main] INFO  (BaseTest.java:52) - Navigate to https://www.tripadvisor.com/
+2024-01-08T01:55:02,444 [main] INFO  (BaseTest.java:83) - Closing the driver

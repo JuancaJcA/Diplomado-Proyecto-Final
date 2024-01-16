@@ -1,0 +1,178 @@
+2024-01-11T00:08:36,491 [main] INFO  (JsonTestDataHelper.java:37) - JsonTestDataHelper created
+2024-01-11T00:08:36,502 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/login.json
+2024-01-11T00:08:36,546 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [LoginTA(user=testTA1704690098443@gmail.com, password=TripAdvisorPass#, user_id=V324CGjuancarlosa, first_name=Juan Carlos, last_name=Avila)]
+2024-01-11T00:08:36,547 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/search.json
+2024-01-11T00:08:36,552 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [SearchTA(hotel=Hard Rock Hotel, things_to_do=Hiking, restaurant=Osteria, vacation_rental=6 bedroom house)]
+2024-01-11T00:08:41,772 [main] INFO  (BaseTest.java:52) - Navigate to https://www.tripadvisor.com/
+2024-01-11T00:09:13,191 [main] INFO  (BaseTest.java:83) - Closing the driver
+2024-01-11T00:10:49,745 [main] INFO  (JsonTestDataHelper.java:37) - JsonTestDataHelper created
+2024-01-11T00:10:49,753 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/login.json
+2024-01-11T00:10:49,796 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [LoginTA(user=testTA1704690098443@gmail.com, password=TripAdvisorPass#, user_id=V324CGjuancarlosa, first_name=Juan Carlos, last_name=Avila)]
+2024-01-11T00:10:49,797 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/search.json
+2024-01-11T00:10:49,801 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [SearchTA(hotel=Hard Rock Hotel, things_to_do=Hiking, restaurant=Osteria, vacation_rental=6 bedroom house)]
+2024-01-11T00:10:54,373 [main] INFO  (BaseTest.java:52) - Navigate to https://www.tripadvisor.com/
+2024-01-11T00:11:25,805 [main] INFO  (BaseTest.java:83) - Closing the driver
+2024-01-11T00:13:24,837 [main] INFO  (JsonTestDataHelper.java:37) - JsonTestDataHelper created
+2024-01-11T00:13:24,844 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/login.json
+2024-01-11T00:13:24,889 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [LoginTA(user=testTA1704690098443@gmail.com, password=TripAdvisorPass#, user_id=V324CGjuancarlosa, first_name=Juan Carlos, last_name=Avila)]
+2024-01-11T00:13:24,890 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/search.json
+2024-01-11T00:13:24,895 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [SearchTA(hotel=Hard Rock Hotel, things_to_do=Hiking, restaurant=Osteria, vacation_rental=6 bedroom house)]
+2024-01-11T00:13:29,700 [main] INFO  (BaseTest.java:52) - Navigate to https://www.tripadvisor.com/
+2024-01-11T00:14:01,201 [main] INFO  (BaseTest.java:83) - Closing the driver
+2024-01-11T00:14:39,164 [main] INFO  (JsonTestDataHelper.java:37) - JsonTestDataHelper created
+2024-01-11T00:14:39,172 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/login.json
+2024-01-11T00:14:39,218 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [LoginTA(user=testTA1704690098443@gmail.com, password=TripAdvisorPass#, user_id=V324CGjuancarlosa, first_name=Juan Carlos, last_name=Avila)]
+2024-01-11T00:14:39,218 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/search.json
+2024-01-11T00:14:39,225 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [SearchTA(hotel=Hard Rock Hotel, things_to_do=Hiking, restaurant=Osteria, vacation_rental=6 bedroom house)]
+2024-01-11T00:14:43,756 [main] INFO  (BaseTest.java:52) - Navigate to https://www.tripadvisor.com/
+2024-01-11T00:15:15,937 [main] INFO  (BaseTest.java:83) - Closing the driver
+2024-01-11T00:20:49,821 [main] INFO  (JsonTestDataHelper.java:37) - JsonTestDataHelper created
+2024-01-11T00:20:49,829 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/login.json
+2024-01-11T00:20:49,874 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [LoginTA(user=testTA1704690098443@gmail.com, password=TripAdvisorPass#, user_id=V324CGjuancarlosa, first_name=Juan Carlos, last_name=Avila)]
+2024-01-11T00:20:49,875 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/search.json
+2024-01-11T00:20:49,882 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [SearchTA(hotel=Hard Rock Hotel, things_to_do=Hiking, restaurant=Osteria, vacation_rental=6 bedroom house)]
+2024-01-11T00:20:55,083 [main] INFO  (BaseTest.java:52) - Navigate to https://www.tripadvisor.com/
+2024-01-11T00:21:59,444 [main] INFO  (BaseTest.java:83) - Closing the driver
+2024-01-11T01:19:34,725 [main] INFO  (JsonTestDataHelper.java:37) - JsonTestDataHelper created
+2024-01-11T01:19:34,733 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/login.json
+2024-01-11T01:19:34,779 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [LoginTA(user=testTA1704690098443@gmail.com, password=TripAdvisorPass#, user_id=V324CGjuancarlosa, first_name=Juan Carlos, last_name=Avila)]
+2024-01-11T01:19:34,780 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/forum.json
+2024-01-11T01:19:34,781 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [ForumTA(topic=Traveling with Pets, forum_title=Any pet friendly accommodation in Tasmania?, comment=Message Test)]
+2024-01-11T01:19:39,593 [main] INFO  (BaseTest.java:52) - Navigate to https://www.tripadvisor.com/
+2024-01-11T01:19:54,603 [main] INFO  (BaseTest.java:83) - Closing the driver
+2024-01-11T01:28:53,330 [main] INFO  (JsonTestDataHelper.java:37) - JsonTestDataHelper created
+2024-01-11T01:28:53,339 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/login.json
+2024-01-11T01:28:53,381 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [LoginTA(user=testTA1704690098443@gmail.com, password=TripAdvisorPass#, user_id=V324CGjuancarlosa, first_name=Juan Carlos, last_name=Avila)]
+2024-01-11T01:28:53,382 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/forum.json
+2024-01-11T01:28:53,386 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [ForumTA(topic=Traveling with Pets, forum_title=Any pet friendly accommodation in Tasmania?, comment=Message Test)]
+2024-01-11T01:28:57,869 [main] INFO  (BaseTest.java:52) - Navigate to https://www.tripadvisor.com/
+2024-01-11T01:29:24,754 [main] INFO  (BaseTest.java:83) - Closing the driver
+2024-01-11T01:29:39,094 [main] INFO  (JsonTestDataHelper.java:37) - JsonTestDataHelper created
+2024-01-11T01:29:39,101 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/login.json
+2024-01-11T01:29:39,147 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [LoginTA(user=testTA1704690098443@gmail.com, password=TripAdvisorPass#, user_id=V324CGjuancarlosa, first_name=Juan Carlos, last_name=Avila)]
+2024-01-11T01:29:39,148 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/forum.json
+2024-01-11T01:29:39,149 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [ForumTA(topic=Traveling with Pets, forum_title=Any pet friendly accommodation in Tasmania?, comment=Message Test)]
+2024-01-11T01:29:43,517 [main] INFO  (BaseTest.java:52) - Navigate to https://www.tripadvisor.com/
+2024-01-11T01:30:17,225 [main] INFO  (BaseTest.java:83) - Closing the driver
+2024-01-11T22:18:27,440 [main] INFO  (JsonTestDataHelper.java:37) - JsonTestDataHelper created
+2024-01-11T22:18:27,448 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/login.json
+2024-01-11T22:18:27,500 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [LoginTA(user=testTA1704690098443@gmail.com, password=TripAdvisorPass#, user_id=V324CGjuancarlosa, first_name=Juan Carlos, last_name=Avila)]
+2024-01-11T22:18:27,500 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/forum.json
+2024-01-11T22:18:27,503 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [ForumTA(topic=Traveling with Pets, forum_title=Any pet friendly accommodation in Tasmania?, comment=Message Test)]
+2024-01-11T22:18:33,424 [main] INFO  (BaseTest.java:52) - Navigate to https://www.tripadvisor.com/
+2024-01-11T22:18:41,798 [main] INFO  (BaseTest.java:83) - Closing the driver
+2024-01-11T22:18:52,591 [main] INFO  (JsonTestDataHelper.java:37) - JsonTestDataHelper created
+2024-01-11T22:18:52,598 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/login.json
+2024-01-11T22:18:52,642 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [LoginTA(user=testTA1704690098443@gmail.com, password=TripAdvisorPass#, user_id=V324CGjuancarlosa, first_name=Juan Carlos, last_name=Avila)]
+2024-01-11T22:18:52,643 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/forum.json
+2024-01-11T22:18:52,644 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [ForumTA(topic=Traveling with Pets, forum_title=Any pet friendly accommodation in Tasmania?, comment=Message Test)]
+2024-01-11T22:18:57,057 [main] INFO  (BaseTest.java:52) - Navigate to https://www.tripadvisor.com/
+2024-01-11T22:19:05,758 [main] INFO  (BaseTest.java:83) - Closing the driver
+2024-01-11T22:23:16,491 [main] INFO  (JsonTestDataHelper.java:37) - JsonTestDataHelper created
+2024-01-11T22:23:16,498 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/login.json
+2024-01-11T22:23:16,541 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [LoginTA(user=testTA1704690098443@gmail.com, password=TripAdvisorPass#, user_id=V324CGjuancarlosa, first_name=Juan Carlos, last_name=Avila)]
+2024-01-11T22:23:21,069 [main] INFO  (BaseTest.java:52) - Navigate to https://www.tripadvisor.com/
+2024-01-11T22:23:40,239 [main] INFO  (BaseTest.java:83) - Closing the driver
+2024-01-11T22:25:58,780 [main] INFO  (JsonTestDataHelper.java:37) - JsonTestDataHelper created
+2024-01-11T22:25:58,789 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/login.json
+2024-01-11T22:25:58,837 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [LoginTA(user=testTA1704690098443@gmail.com, password=TripAdvisorPass#, user_id=V324CGjuancarlosa, first_name=Juan Carlos, last_name=Avila)]
+2024-01-11T22:25:58,837 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/forum.json
+2024-01-11T22:25:58,839 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [ForumTA(topic=Traveling with Pets, forum_title=Any pet friendly accommodation in Tasmania?, comment=Message Test)]
+2024-01-11T22:26:03,324 [main] INFO  (BaseTest.java:52) - Navigate to https://www.tripadvisor.com/
+2024-01-11T22:26:31,754 [main] INFO  (JsonTestDataHelper.java:37) - JsonTestDataHelper created
+2024-01-11T22:26:31,761 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/login.json
+2024-01-11T22:26:31,803 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [LoginTA(user=testTA1704690098443@gmail.com, password=TripAdvisorPass#, user_id=V324CGjuancarlosa, first_name=Juan Carlos, last_name=Avila)]
+2024-01-11T22:26:31,804 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/forum.json
+2024-01-11T22:26:31,806 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [ForumTA(topic=Traveling with Pets, forum_title=Any pet friendly accommodation in Tasmania?, comment=Message Test)]
+2024-01-11T22:26:36,299 [main] INFO  (BaseTest.java:52) - Navigate to https://www.tripadvisor.com/
+2024-01-11T22:26:55,861 [main] INFO  (BaseTest.java:83) - Closing the driver
+2024-01-11T22:29:10,927 [main] INFO  (JsonTestDataHelper.java:37) - JsonTestDataHelper created
+2024-01-11T22:29:10,935 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/login.json
+2024-01-11T22:29:10,980 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [LoginTA(user=testTA1704690098443@gmail.com, password=TripAdvisorPass#, user_id=V324CGjuancarlosa, first_name=Juan Carlos, last_name=Avila)]
+2024-01-11T22:29:10,980 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/forum.json
+2024-01-11T22:29:10,982 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [ForumTA(topic=Traveling with Pets, forum_title=Any pet friendly accommodation in Tasmania?, comment=Message Test)]
+2024-01-11T22:29:15,625 [main] INFO  (BaseTest.java:52) - Navigate to https://www.tripadvisor.com/
+2024-01-11T22:29:35,057 [main] INFO  (BaseTest.java:83) - Closing the driver
+2024-01-11T22:31:36,806 [main] INFO  (JsonTestDataHelper.java:37) - JsonTestDataHelper created
+2024-01-11T22:31:36,815 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/login.json
+2024-01-11T22:31:36,859 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [LoginTA(user=testTA1704690098443@gmail.com, password=TripAdvisorPass#, user_id=V324CGjuancarlosa, first_name=Juan Carlos, last_name=Avila)]
+2024-01-11T22:31:36,860 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/forum.json
+2024-01-11T22:31:36,862 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [ForumTA(topic=Traveling with Pets, forum_title=Any pet friendly accommodation in Tasmania?, comment=Message Test)]
+2024-01-11T22:31:41,425 [main] INFO  (BaseTest.java:52) - Navigate to https://www.tripadvisor.com/
+2024-01-11T22:32:00,852 [main] INFO  (BaseTest.java:83) - Closing the driver
+2024-01-11T22:34:17,524 [main] INFO  (JsonTestDataHelper.java:37) - JsonTestDataHelper created
+2024-01-11T22:34:17,532 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/login.json
+2024-01-11T22:34:17,576 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [LoginTA(user=testTA1704690098443@gmail.com, password=TripAdvisorPass#, user_id=V324CGjuancarlosa, first_name=Juan Carlos, last_name=Avila)]
+2024-01-11T22:34:17,577 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/forum.json
+2024-01-11T22:34:17,579 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [ForumTA(topic=Traveling with Pets, forum_title=Any pet friendly accommodation in Tasmania?, comment=Message Test)]
+2024-01-11T22:34:22,247 [main] INFO  (BaseTest.java:52) - Navigate to https://www.tripadvisor.com
+2024-01-11T22:34:41,644 [main] INFO  (BaseTest.java:83) - Closing the driver
+2024-01-11T22:35:39,501 [main] INFO  (JsonTestDataHelper.java:37) - JsonTestDataHelper created
+2024-01-11T22:35:39,508 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/login.json
+2024-01-11T22:35:39,553 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [LoginTA(user=testTA1704690098443@gmail.com, password=TripAdvisorPass#, user_id=V324CGjuancarlosa, first_name=Juan Carlos, last_name=Avila)]
+2024-01-11T22:35:39,553 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/forum.json
+2024-01-11T22:35:39,555 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [ForumTA(topic=Traveling with Pets, forum_title=Any pet friendly accommodation in Tasmania?, comment=Message Test)]
+2024-01-11T22:35:44,039 [main] INFO  (BaseTest.java:52) - Navigate to https://www.tripadvisor.com
+2024-01-11T22:36:03,687 [main] INFO  (BaseTest.java:83) - Closing the driver
+2024-01-11T22:40:19,819 [main] INFO  (JsonTestDataHelper.java:37) - JsonTestDataHelper created
+2024-01-11T22:40:19,828 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/login.json
+2024-01-11T22:40:19,874 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [LoginTA(user=testTA1704690098443@gmail.com, password=TripAdvisorPass#, user_id=V324CGjuancarlosa, first_name=Juan Carlos, last_name=Avila)]
+2024-01-11T22:40:19,875 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/forum.json
+2024-01-11T22:40:19,877 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [ForumTA(topic=Traveling with Pets, forum_title=Any pet friendly accommodation in Tasmania?, comment=Message Test)]
+2024-01-11T22:40:26,401 [main] INFO  (BaseTest.java:52) - Navigate to https://www.tripadvisor.com
+2024-01-11T22:40:38,007 [main] INFO  (BaseTest.java:83) - Closing the driver
+2024-01-11T22:43:54,725 [main] INFO  (JsonTestDataHelper.java:37) - JsonTestDataHelper created
+2024-01-11T22:43:54,734 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/login.json
+2024-01-11T22:43:54,777 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [LoginTA(user=testTA1704690098443@gmail.com, password=TripAdvisorPass#, user_id=V324CGjuancarlosa, first_name=Juan Carlos, last_name=Avila)]
+2024-01-11T22:43:54,777 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/forum.json
+2024-01-11T22:43:54,779 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [ForumTA(topic=Traveling with Pets, forum_title=Any pet friendly accommodation in Tasmania?, comment=Message Test)]
+2024-01-11T22:44:01,160 [main] INFO  (BaseTest.java:52) - Navigate to https://www.tripadvisor.com
+2024-01-11T22:44:19,443 [main] INFO  (BaseTest.java:83) - Closing the driver
+2024-01-11T22:47:09,955 [main] INFO  (JsonTestDataHelper.java:37) - JsonTestDataHelper created
+2024-01-11T22:47:09,963 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/login.json
+2024-01-11T22:47:09,998 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [LoginTA(user=testTA1704690098443@gmail.com, password=TripAdvisorPass#, user_id=V324CGjuancarlosa, first_name=Juan Carlos, last_name=Avila)]
+2024-01-11T22:47:09,999 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/forum.json
+2024-01-11T22:47:10,000 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [ForumTA(topic=Traveling with Pets, forum_title=Any pet friendly accommodation in Tasmania?, comment=Message Test)]
+2024-01-11T22:47:16,724 [main] INFO  (BaseTest.java:52) - Navigate to https://www.tripadvisor.com
+2024-01-11T22:47:32,821 [main] INFO  (BaseTest.java:83) - Closing the driver
+2024-01-11T23:39:40,318 [main] INFO  (JsonTestDataHelper.java:37) - JsonTestDataHelper created
+2024-01-11T23:39:40,324 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/login.json
+2024-01-11T23:39:40,352 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [LoginTA(user=testTA1704690098443@gmail.com, password=TripAdvisorPass#, user_id=V324CGjuancarlosa, first_name=Juan Carlos, last_name=Avila)]
+2024-01-11T23:39:40,353 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/forum.json
+2024-01-11T23:39:40,354 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [ForumTA(topic=Traveling with Pets, forum_title=Any pet friendly accommodation in Tasmania?, comment=Message Test)]
+2024-01-11T23:39:43,657 [main] INFO  (BaseTest.java:52) - Navigate to https://www.tripadvisor.com
+2024-01-11T23:40:21,289 [main] INFO  (BaseTest.java:83) - Closing the driver
+2024-01-11T23:49:07,049 [main] INFO  (JsonTestDataHelper.java:37) - JsonTestDataHelper created
+2024-01-11T23:49:07,054 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/login.json
+2024-01-11T23:49:07,082 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [LoginTA(user=testTA1704690098443@gmail.com, password=TripAdvisorPass#, user_id=V324CGjuancarlosa, first_name=Juan Carlos, last_name=Avila)]
+2024-01-11T23:49:10,358 [main] INFO  (BaseTest.java:52) - Navigate to https://www.tripadvisor.com
+2024-01-11T23:49:38,809 [main] INFO  (BaseTest.java:83) - Closing the driver
+2024-01-11T23:50:05,603 [main] INFO  (JsonTestDataHelper.java:37) - JsonTestDataHelper created
+2024-01-11T23:50:05,609 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/login.json
+2024-01-11T23:50:05,637 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [LoginTA(user=testTA1704690098443@gmail.com, password=TripAdvisorPass#, user_id=V324CGjuancarlosa, first_name=Juan Carlos, last_name=Avila)]
+2024-01-11T23:50:09,504 [main] INFO  (BaseTest.java:52) - Navigate to https://www.tripadvisor.com
+2024-01-11T23:50:43,503 [main] INFO  (BaseTest.java:83) - Closing the driver
+2024-01-11T23:52:04,274 [main] INFO  (JsonTestDataHelper.java:37) - JsonTestDataHelper created
+2024-01-11T23:52:04,280 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/login.json
+2024-01-11T23:52:04,308 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [LoginTA(user=testTA1704690098443@gmail.com, password=TripAdvisorPass#, user_id=V324CGjuancarlosa, first_name=Juan Carlos, last_name=Avila)]
+2024-01-11T23:52:07,852 [main] INFO  (BaseTest.java:52) - Navigate to https://www.tripadvisor.com
+2024-01-11T23:52:32,871 [main] INFO  (BaseTest.java:83) - Closing the driver
+2024-01-11T23:53:52,374 [main] INFO  (JsonTestDataHelper.java:37) - JsonTestDataHelper created
+2024-01-11T23:53:52,380 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/login.json
+2024-01-11T23:53:52,408 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [LoginTA(user=testTA1704690098443@gmail.com, password=TripAdvisorPass#, user_id=V324CGjuancarlosa, first_name=Juan Carlos, last_name=Avila)]
+2024-01-11T23:53:55,742 [main] INFO  (BaseTest.java:52) - Navigate to https://www.tripadvisor.com
+2024-01-11T23:54:19,758 [main] INFO  (BaseTest.java:83) - Closing the driver
+2024-01-11T23:56:37,368 [main] INFO  (JsonTestDataHelper.java:37) - JsonTestDataHelper created
+2024-01-11T23:56:37,373 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/login.json
+2024-01-11T23:56:37,401 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [LoginTA(user=testTA1704690098443@gmail.com, password=TripAdvisorPass#, user_id=V324CGjuancarlosa, first_name=Juan Carlos, last_name=Avila)]
+2024-01-11T23:56:40,851 [main] INFO  (BaseTest.java:52) - Navigate to https://www.tripadvisor.com
+2024-01-11T23:57:05,388 [main] INFO  (BaseTest.java:83) - Closing the driver
+2024-01-11T23:57:53,351 [main] INFO  (JsonTestDataHelper.java:37) - JsonTestDataHelper created
+2024-01-11T23:57:53,356 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/login.json
+2024-01-11T23:57:53,384 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [LoginTA(user=testTA1704690098443@gmail.com, password=TripAdvisorPass#, user_id=V324CGjuancarlosa, first_name=Juan Carlos, last_name=Avila)]
+2024-01-11T23:57:56,661 [main] INFO  (BaseTest.java:52) - Navigate to https://www.tripadvisor.com
+2024-01-11T23:58:33,122 [main] INFO  (BaseTest.java:83) - Closing the driver
+2024-01-11T23:59:48,786 [main] INFO  (JsonTestDataHelper.java:37) - JsonTestDataHelper created
+2024-01-11T23:59:48,791 [main] INFO  (JsonTestDataHelper.java:45) - filePath: resources/testdata/data/login.json
+2024-01-11T23:59:48,819 [main] INFO  (JsonTestDataHelper.java:48) - TestData: [LoginTA(user=testTA1704690098443@gmail.com, password=TripAdvisorPass#, user_id=V324CGjuancarlosa, first_name=Juan Carlos, last_name=Avila)]
+2024-01-11T23:59:52,271 [main] INFO  (BaseTest.java:52) - Navigate to https://www.tripadvisor.com
